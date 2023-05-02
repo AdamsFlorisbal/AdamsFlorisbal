@@ -21,5 +21,6 @@ Olá! Adams aqui! Desenvolvedor Front-End JR 👋
   
 </div>
 
+  
 ![Snake animation](https://github.com/AdamsFlorisbal/AdamsFlorisbal/blob/output/github-contribution-grid-snake.svg)
 
